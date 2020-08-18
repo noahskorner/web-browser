@@ -1,0 +1,9 @@
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\bin\Release\web_browser.exe.config
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\bin\Release\web_browser.exe
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\bin\Release\web_browser.pdb
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\obj\Release\web_browser.Form1.resources
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\obj\Release\web_browser.Properties.Resources.resources
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\obj\Release\web_browser.csproj.GenerateResource.cache
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\obj\Release\web_browser.csproj.CoreCompileInputs.cache
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\obj\Release\web_browser.exe
+C:\Users\noahs\Desktop\School\CSE 445\korner_noah_a1\web_browser\web_browser\obj\Release\web_browser.pdb
